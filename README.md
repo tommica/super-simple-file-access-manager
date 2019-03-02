@@ -1,2 +1,2 @@
-# super-simple-intranet
-Just a simple intranet
+# super-simple-file-access-manager
+Just a simple file access manager
